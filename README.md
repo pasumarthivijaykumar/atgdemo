@@ -1,6 +1,6 @@
 # atgdemo
 
-I have few restful apis exposed in this demo. Please use below details as shared.
+Its spring boot application, i have few restful apis exposed in this demo. Please use below details as shared.
 
 Adding a product by passing product details
 http://localhost:19009/product?name=test4&domain=pdomain&startDate=7-jul-2021&duration=6
